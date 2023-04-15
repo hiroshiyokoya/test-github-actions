@@ -1,4 +1,4 @@
-from . import math_funcs
+import math_funcs
 
 
 def test_square():
